@@ -7,7 +7,7 @@
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>Zhexiao Lin 林哲霄</title>
+<title>Kang Shuai 帅康</title>
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
