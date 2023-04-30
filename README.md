@@ -21,7 +21,7 @@
 </td>
 <td id="layout-content">
 <div id="toptitle">
-<h1>Zhexiao Lin 林哲霄</h1>
+<h1>Kang Shuai 帅康</h1>
 </div>
 <table class="imgtable"><tr><td>
 <img src="photo.jpg" alt="alt text" width="300px" height="300px" />&nbsp;</td>
