@@ -45,24 +45,9 @@
 </p>
 </li>
 </ul>
-<h2>News</h2>
-<ul>
-<li><p>[2022/04] Received <a href="https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/" target=&ldquo;blank&rdquo;>IMS Hannan Graduate Student Travel Award</a>!
-</p>
-</li>
-<li><p>[2022/04] Selected as <a href="https://research.facebook.com/blog/2023/4/announcing-the-2023-meta-research-phd-fellowship-award-winners/" target=&ldquo;blank&rdquo;>2023 Meta Research PhD Fellowship</a> Finalist! 
-</p>
-</li>
-<li><p>[2022/03] Selected as <a href="https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles/" target=&ldquo;blank&rdquo;>2023 Jane Street Graduate Research Fellowship</a> Finalist! 
-</p>
-</li>
-</ul>
 <h2>Education</h2>
 <ul>
-<li><p>Ph.D. in Statistics, <b>University of California, Berkeley</b>, 2022 - present
-</p>
-</li>
-<li><p>M.S. in Statistics, <b>University of Washington</b>, 2020 - 2022
+<li><p>Ph.D. in Statistics, <b>Peking University, 2020 - present
 </p>
 </li>
 <li><p>B.S. in Mathematics and Applied Mathematics, <b>Zhejiang University</b>, 2016 - 2020
@@ -71,43 +56,16 @@
 </ul>
 <h2>Awards</h2>
 <ul>
-<li><p>IMS Hannan Graduate Student Travel Award, 2023
-</p>
-</li>
-<li><p>2023 Meta Research PhD Fellowship Finalist, 2023
-</p>
-</li>
-<li><p>2023 Jane Street Graduate Research Fellowship Finalist, 2023
-</p>
-</li>
-<li><p>Berkeley Fellowship, 2022
-</p>
-</li>
-<li><p>Graduate School Conference Presentation Award (University of Washington), 2022 
-</p>
-</li>
-<li><p>Yongping Fellowship, 2019
+<li><p>Haihang Fellowship, 2019
 </p>
 </li>
 </ul>
 <h2>Contact</h2>
 <ul>
-<li><p>Email: zhexiaolin@berkeley.edu
+<li><p>Email: kangshuai@stu.pku.edu.cn
 </p>
 </li>
-<li><p><a href="https://scholar.google.com/citations?user=vyseYGYAAAAJ" target=&ldquo;blank&rdquo;>Google Scholar Profile</a>
-</p>
-</li>
-<li><p><a href="https://linkedin.com/in/zhexiao-lin-26a497170" target=&ldquo;blank&rdquo;>LinkedIn Profile</a>
-</p>
-</li>
-<li><p><a href="https://twitter.com/zzzxlin" target=&ldquo;blank&rdquo;>Twitter</a>
-</p>
-</li>
-<li><p><a href="https://github.com/zhexiaolin" target=&ldquo;blank&rdquo;>Github</a>
-</p>
-</li>
-<li><p><a href="QR.JPG" target=&ldquo;blank&rdquo;>WeChat</a></p>
+<li><p><a href="https://www.researchgate.net/profile/Kang_Shuai9" target=&ldquo;blank&rdquo;>Researchgate Profile</a>
 </li>
 </ul>
 <div id="footer">
