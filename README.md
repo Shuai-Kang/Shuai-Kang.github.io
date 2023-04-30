@@ -13,7 +13,7 @@
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
 <td id="layout-menu">
-<div class="menu-category">Zhexiao Lin</div>
+<div class="menu-category">Kang Shuai</div>
 <div class="menu-item"><a href="index.html" class="current">Home</a></div>
 <div class="menu-item"><a href="research.html">Research</a></div>
 <div class="menu-item"><a href="talk.html">Presentations</a></div>
