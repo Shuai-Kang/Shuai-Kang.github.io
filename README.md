@@ -24,7 +24,7 @@
 <h1>Kang Shuai 帅康</h1>
 </div>
 <table class="imgtable"><tr><td>
-<img src="photo.jpg" alt="alt text" width="300px" height="300px" />&nbsp;</td>
+<img src="sk.jpg" alt="alt text" width="300px" height="300px" />&nbsp;</td>
 <td align="left"><p>Hi, I am a third year PhD student in the School of mathematical Sciences at Peking University. I am now advised by Associate Professor <a href="https://scholar.google.com/citations?user=3t3YslwAAAAJ&hl=en" target=&ldquo;blank&rdquo;>Yangbo He</a>. I am also fortunate to be advised by Lecturer <a href="http://shanshanluo.cn/" target=&ldquo;blank&rdquo;>Shanshan Luo</a>, Associate Phofessor <a href="https://fengxie.site/" target=&ldquo;blank&rdquo;>Feng Xie</a> from <a href="https://btbu-causality.group/" target=&ldquo;blank&rdquo;>Causal Inference Group</a> of Beijing Technology and Business School University and Associate Phofessor <a href="http://stat.ruc.edu.cn/jxtd/jsdw/swtjylxbxx/b79454acf7f141f3b1d2fe9375e90490.htm" target=&ldquo;blank&rdquo;>Wei Li</a> from Renmin University of China. Previously, I received my bachelor's degree from Zhejiang University in 2020. I was advised by Professor <a href="https://www.researchgate.net/profile/Kangsheng-Liu" target=&ldquo;blank&rdquo;>Kangsheng Liu</a> on my undergraduate thesis.
 </p>
 <p>Feel free to contact me if you are interested in causal inference!
