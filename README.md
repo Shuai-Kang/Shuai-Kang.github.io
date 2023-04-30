@@ -70,7 +70,7 @@
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2023-04-27 14:06:52 PDT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2023-04-30 12:06:52 PDT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>
