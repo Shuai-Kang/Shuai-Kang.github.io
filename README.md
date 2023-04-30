@@ -32,19 +32,16 @@
 </td></tr></table>
 <h2>Research Interests</h2>
 <ul>
-<li><p>Causal inference
+<li><p>Instrumental Variable
 </p>
 </li>
-<li><p>Graph-based methods
+<li><p>Causal Mediation Analysis
 </p>
 </li>
-<li><p>Nonparametric statistics
+<li><p>Non-Gaussian data
 </p>
 </li>
-<li><p>Econometrics
-</p>
-</li>
-<li><p>Deep learning
+<li><p>Effects of Multiple Treatments
 </p>
 </li>
 </ul>
