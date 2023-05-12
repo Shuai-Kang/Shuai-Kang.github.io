@@ -57,7 +57,7 @@
 <h2>Preprints</h2>
 <ul> 
 <li><p> <a href="https://arxiv.org/abs/2304.14895" target=&ldquo;blank&rdquo;>Identification and Estimation of Causal Effects Using Non-Gaussianity and Auxiliary Covariates</a>
-<li><p> Kang Shuai, Shanshan Luo, Yue Zhang, Feng Xie and Yangbo He
+<li><p> Kang Shuai, Shanshan Luo, Yue Zhang, Feng Xie and Yangbo He, 2023.
 </p>
 </li>
 </ul>
