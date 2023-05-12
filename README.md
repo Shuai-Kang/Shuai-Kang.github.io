@@ -54,9 +54,9 @@
 </p>
 </li>
 </ul>
-<h2>Awards</h2>
-<ul>
-<li><p>Haihang Fellowship, 2019
+<h2>Preprints</h2>
+<ul> <a href="https://arxiv.org/abs/2304.14895" target=&ldquo;blank&rdquo;>Identification and Estimation of Causal Effects Using Non-Gaussianity and Auxiliary Covariates</a>
+<li><p>
 </p>
 </li>
 </ul>
