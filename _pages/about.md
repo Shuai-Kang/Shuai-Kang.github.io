@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral fellow, 2025.10.01-, [The Dartmouth Institue for Health Policy & Clinical Practice](https://geiselmed.dartmouth.edu/tdi/profile/kang-shuai-phd/), Geisel School of Medicine, Dartmouth College.
+Postdoctoral fellow, 2025.10.01-
+Geisel School of Medicine, Dartmouth College
+[The Dartmouth Institue for Health Policy & Clinical Practice](https://geiselmed.dartmouth.edu/tdi/profile/kang-shuai-phd/)
 
 Background
 ======
