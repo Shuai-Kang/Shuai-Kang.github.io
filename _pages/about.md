@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral fellow, 2025.10.01-
-Geisel School of Medicine, Dartmouth College
+Postdoctoral fellow, 2025.10.01-  
+Geisel School of Medicine, Dartmouth College  
 [The Dartmouth Institue for Health Policy & Clinical Practice](https://geiselmed.dartmouth.edu/tdi/profile/kang-shuai-phd/)
 
 Background
@@ -17,12 +17,7 @@ I earned my Ph.D. in Statistics from Peking University in June 2025, following a
 
 Research interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Data fusion, Effect score analysis, Instrumental variable, Factorial experiment, Mediation analysis, Non-Gaussian data, Peer effect, Sequential treatments.
 
 Latest news
 ------
